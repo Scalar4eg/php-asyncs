@@ -1,0 +1,10 @@
+{
+    "name": "scalar4eg/php-asyncs",
+    "authors": [
+        {
+            "name": "Mike Ovchinnikov",
+            "email": "ovc.mike@gmail.com"
+        }
+    ],
+    "require": {}
+}
