@@ -6,5 +6,12 @@
             "email": "ovc.mike@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "react/http-client": "0.3.x-dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "PhpAsyncs": "src/"
+        }
+    }
 }
